@@ -1,0 +1,7 @@
+name: MiningWorld
+version: 1.0
+author: Noverita
+main: me.noverita.miningworld.MiningWorld
+api-version: 1.13
+depend:
+  - Multiverse-Core
